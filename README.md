@@ -5,14 +5,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/nilesh0002/INT428/tree/master/0139-word-break) |
+| [0648-replace-words](https://github.com/nilesh0002/INT428/tree/master/0648-replace-words) |
 ## Hash Table
 |  |
 | ------- |
 | [0139-word-break](https://github.com/nilesh0002/INT428/tree/master/0139-word-break) |
+| [0648-replace-words](https://github.com/nilesh0002/INT428/tree/master/0648-replace-words) |
 ## String
 |  |
 | ------- |
 | [0139-word-break](https://github.com/nilesh0002/INT428/tree/master/0139-word-break) |
+| [0648-replace-words](https://github.com/nilesh0002/INT428/tree/master/0648-replace-words) |
 | [0686-repeated-string-match](https://github.com/nilesh0002/INT428/tree/master/0686-repeated-string-match) |
 ## Dynamic Programming
 |  |
@@ -22,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/nilesh0002/INT428/tree/master/0139-word-break) |
+| [0648-replace-words](https://github.com/nilesh0002/INT428/tree/master/0648-replace-words) |
 ## Memoization
 |  |
 | ------- |
