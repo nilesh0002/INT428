@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/nilesh0002/INT428/tree/master/0139-word-break) |
+| [0686-repeated-string-match](https://github.com/nilesh0002/INT428/tree/master/0686-repeated-string-match) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -29,4 +30,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/nilesh0002/INT428/tree/master/0139-word-break) |
+## String Matching
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/nilesh0002/INT428/tree/master/0686-repeated-string-match) |
+## Z Algorithm
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/nilesh0002/INT428/tree/master/0686-repeated-string-match) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/nilesh0002/INT428/tree/master/0686-repeated-string-match) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/nilesh0002/INT428/tree/master/0686-repeated-string-match) |
 <!---LeetCode Topics End-->
