@@ -8,7 +8,6 @@ public:
         while (l < h) {
             int m = l + (h - l) / 2;
             int cnt = 0;
-
             for (int i = 0; i < n; i++) {
                 for (int j = 0; j < n; j++) {
                     if (matrix[i][j] <= m) {
